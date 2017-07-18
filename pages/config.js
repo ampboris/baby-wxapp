@@ -6,4 +6,5 @@ module.exports = {
     uptokenURL: 'http://localhost:1234/api/signature',
     getPhotoVideoUrl: 'http://localhost:1234/api/photoVideo/list',
     savePhotoVideoInfoUrl: 'http://localhost:1234/api/photoVideo/save',
+    deletePhotoOrVideoUrl: 'http://localhost:1234/api/photoVideo/delete'
 };
