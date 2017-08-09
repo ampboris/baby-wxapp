@@ -13,5 +13,6 @@ module.exports = {
     getPhotoVideoUrl: 'http://localhost:8084/api/photoVideo/list',
     savePhotoVideoInfoUrl: 'http://localhost:8084/api/photoVideo/save',
     deletePhotoOrVideoUrl: 'http://localhost:8084/api/photoVideo/delete',
-    birthday: new Date(2016, 10, 27, 15, 0, 0)
+    birthday: new Date(2016, 10, 27, 15, 0, 0),
+
 };
