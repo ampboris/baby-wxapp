@@ -7,12 +7,14 @@ module.exports = {
     getPhotoVideoUrl: 'https://dingjian.name/api/photoVideo/list',
     savePhotoVideoInfoUrl: 'https://dingjian.name/api/photoVideo/save',
     deletePhotoOrVideoUrl: 'https://dingjian.name/api/photoVideo/delete',
-
-
+    getOpenidUrl: 'https://dingjian.name/api/u/register',
+    getAuthorizationUrl: 'https://dingjian.name/api/u/getAuthorization',
+    
     // uptokenURL: 'http://localhost:8084/api/signature',
     // getPhotoVideoUrl: 'http://localhost:8084/api/photoVideo/list',
     // savePhotoVideoInfoUrl: 'http://localhost:8084/api/photoVideo/save',
     // deletePhotoOrVideoUrl: 'http://localhost:8084/api/photoVideo/delete',
+
     birthday: new Date(2016, 10, 27, 15, 0, 0),
 
 };
