@@ -1,5 +1,5 @@
 module.exports = {
-    region: 'http://up-z2.qiniu.com', // 华南区
+    region: 'https://upload-z2.qbox.me', // 华南区
     accessToken: "e66b46bd-1445-4b90-a541-7dc07f41ca73",
     domain: 'http://baby.dingjian.name',
 
